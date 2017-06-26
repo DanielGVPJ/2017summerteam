@@ -7,7 +7,7 @@ function Person(name) {
   };
 }
 
-var person1 = new Person('Steve');
-person1.greeting(); // 'Hi! I'm steve'
+var person1 = new Person('Daniel');
+person1.greeting(); // 'Hi! I'm Daniel'
 
 //add Jesus, Daniel, Andrea
